@@ -12,9 +12,9 @@ The repository contains the following folders and files:
 
 The Jupyter notebook containing the analysis following the CRISP-DM process.
 
-Inside the models folder is the work related to the Machine Learning pipeline, and includes the original ML Jupyter notebook, the python script derived from the notebook in train_classifier.py. The final trained model output saved as a pickle file called classifier.pkl is not included in the repository due to size restrictions.
+## Results
 
-Inside the app folder is the web app with the python script to run the app called run.py and then a template folder containing the two front-end html files master.html and go.html.
+A summary of the results of the analysis can be found in this blog.
 
 ## Dependencies
 
