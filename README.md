@@ -14,13 +14,16 @@ The Jupyter notebook containing the analysis following the CRISP-DM process.
 
 ## Results
 
-A summary of the results of the analysis can be found in this blog on medium.
+A summary of the results of the analysis can be found in the Jupyter notebook or in this [blog](https://medium.com/@paul.stancliffe/sleeping-and-not-sleepless-in-seattle-with-airbnb-76eab905598f) on medium.
 
 ## Dependencies
 
    - Python 3.6
    - pandas 0.23.3
    - numpy 1.12.1
+   - seaborn
+   - datetime
+   - calendar
 
 ## Acknowledgements
 
