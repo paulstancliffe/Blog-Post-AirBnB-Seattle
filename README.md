@@ -14,7 +14,7 @@ The Jupyter notebook containing the analysis following the CRISP-DM process.
 
 ## Results
 
-A summary of the results of the analysis can be found in this blog.
+A summary of the results of the analysis can be found in this blog on medium.
 
 ## Dependencies
 
